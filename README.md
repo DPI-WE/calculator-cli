@@ -1,5 +1,5 @@
-# ruby-sandox
+# Calculator CLI
+The Calculator CLI app provides users with a simple, command-line interface to perform basic arithmetic operations.
 
-Use this repository as a workspace to experiment in `irb` terminals, write Ruby code in the editor, and save your notes to GitHub by committing and pushing.
-
-- Ruby version: `3.2.1`
+## Usage
+- Enter `ruby app.rb` in the terminal
